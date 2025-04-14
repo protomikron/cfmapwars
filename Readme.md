@@ -14,7 +14,11 @@ You need Python with SDL2 and GDAL libraries.
 
 That should do the work.
 
+# FAQ
+
+Q: Why?
+A: Why not?
+
 # License
 
 MIT
-
