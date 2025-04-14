@@ -1,7 +1,6 @@
 # Overview
 
-CFMapWars (Colorful map wears) is a simple territory game
-simulation with maps and stuff.
+CFMapWars (Colorful map wars) is a simple territory game simulation with maps and stuff.
 
 # Run
 
