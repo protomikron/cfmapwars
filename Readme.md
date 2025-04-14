@@ -16,8 +16,8 @@ That should do the work.
 
 # FAQ
 
-Q: Why?
-A: Why not?
+- Q: Why?
+- A: Why not?
 
 # License
 
